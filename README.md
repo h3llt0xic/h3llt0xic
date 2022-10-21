@@ -1,7 +1,8 @@
 # sobre mim
 
 - 👋 oi, eu sou a @h3llt0xic
-- 👍 meu e-mail de contato é m.souza22@escola.pr.gov.br
-- 👀 eu estou interessada em aprender a trabalhar com novas linguagens
-- 🌱 eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
+- 👍 não vou colocar meu e-mail de contato pois não quero conversar
+- 👀 eu não estou interessada em aprender a trabalhar com novas linguagens mas infelizmente o novo ensino médio me obriga a aprender
+- 🌱 eu estou tentando aprender varias linguagens de programação pela plataforma alura e falhando miseravelmente
+- 👺 me odeio
 
